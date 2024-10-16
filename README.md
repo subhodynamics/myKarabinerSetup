@@ -6,6 +6,8 @@ Here is a summary of the shortcuts defined in my **Karabiner configuration** :
 
 ### Hyper Key (⌃⌥⇧⌘) Mapping
 
+If using windows, for hyper key use [**ctrl + alt + shift + windows key**]
+
 1. **Caps Lock** is remapped to the **Hyper Key** (⌃⌥⇧⌘) by default, and if pressed alone, it triggers the **Escape** key.
 
 ---
@@ -97,6 +99,9 @@ Here is a summary of the shortcuts defined in my **Karabiner configuration** :
 - **Hyper + r + h**: Open Raycast clipboard history.
 - **Hyper + r + 1**: Connect favorite Bluetooth device 1.
 - **Hyper + r + 2**: Connect favorite Bluetooth device 2.
+
+
+"**Swapped Left Option and Left Command**"
 
 - ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
