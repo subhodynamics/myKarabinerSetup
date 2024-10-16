@@ -1,0 +1,10 @@
+/Users/subho/Developer/karabiner
+/Users/subho/.config
+
+ln -s /Users/subho/Developer/karabiner /Users/subho/.config
+
+launchctl kickstart -k gui/`id -u`/org.pqrs.karabiner.karabiner_console_user_server
+
+
+
+launchctl kickstart -k gui/501/org.pqrs.service.agent.karabiner_console_user_server˝
